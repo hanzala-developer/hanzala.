@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://devhanzala.vercel.app/sitemap.xml
